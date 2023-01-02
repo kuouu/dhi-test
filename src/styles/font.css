@@ -1,0 +1,6 @@
+
+ @font-face { font-style : bold; src: url("assets/fonts/NotoSansTCBold.otf"); font-family : "Noto Sans TC"; font-weight : 700;  }
+ @font-face { font-style : bold; src: url("assets/fonts/NotoSansTCMedium.otf"); font-family : "Noto Sans TC"; font-weight : 500;  }
+ @font-face { font-style : normal; src: url("assets/fonts/NotoSansTCRegular.otf"); font-family : "Noto Sans TC"; font-weight : 400;  }
+ @font-face { font-style : bold; src: url("assets/fonts/NotoSansSCBold.otf"); font-family : "Noto Sans SC"; font-weight : 700;  }
+ @font-face { font-style : bold; src: url("assets/fonts/RobotoMedium.ttf"); font-family : "Roboto"; font-weight : 500;  }
